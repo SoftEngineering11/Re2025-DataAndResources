@@ -11,7 +11,7 @@ This readme contains details for the respository navigation. There are 3 directo
 - Prompts and Generations: This directory contains 2 sub directories:
   - Prompts: This directory contains prompts used for each experiment.
   - Manual Analysis: This directory contains genearations that were manually evaluated.
-- Interview data:
+- Interview Resources:
   - InterviewQuestions.docx -> This file has the interview questions and the feature requets that we use for the interviews.
   - IQ1-2-3-Analysis.csv -> This file consists of the analysis for IQ 1 - 3.
   - IQ4-Analysis.csv -> This file consists of the analysis for IQ 4.
