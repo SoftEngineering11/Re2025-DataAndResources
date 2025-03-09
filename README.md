@@ -8,5 +8,8 @@ This readme contains details for the respository navigation. There are 3 directo
 - Documents and Readme:
   - ExtendedResultsForAllExperiment.md -> This file has all the results for experiments that we explain in the paper.
   - AnnotationHeuristicDocument.pdf -> This pdf is our heuristics document that was used for annotation.
-- Prompts and Generations:
-  - CQGeneration-Incompleteness-ForManualEvaluation.xlsx
+- Prompts and Generations: This directory contains 2 sub directories:
+  - Prompts: This directory contains prompts used for each experiment
+  - Manual Analysis: This directory contains genearations that were manually evaluated.
+- Interview data:
+  - 
