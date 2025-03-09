@@ -1,6 +1,6 @@
 # Data And Resources for "Demystifying Feature Requests: Leveraging LLMs to Refine Feature Requests in Open Source Software"
 
-This readme contains details for the respository navigation. There are 3 directories:
+This readme contains details for the respository navigation. There are 4 directories:
 - Dataset: This contains the reconciled corpus of 100 Feature requests.
   - 100-FeatureRequests-GroundTruth-RequestLevel.csv -> This file has all the feature requests and their annotations.
   - 100-FeatureRequests-GroundTruth-InstanceBased.csv -> This file has all the instances of each annotation for ambiguities.
